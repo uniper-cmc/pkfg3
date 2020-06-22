@@ -1,2 +1,2 @@
 ARG REGISTRY_NAME
-FROM ${REGISTRY_NAME}/pkfg3-dev:latest
+FROM ${REGISTRY_NAME}/merlin-uniper:latest
